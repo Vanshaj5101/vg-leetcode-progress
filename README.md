@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
