@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
