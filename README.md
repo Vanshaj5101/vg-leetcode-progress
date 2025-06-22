@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
