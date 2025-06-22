@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## Design
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
