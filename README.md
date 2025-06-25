@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0009-palindrome-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
