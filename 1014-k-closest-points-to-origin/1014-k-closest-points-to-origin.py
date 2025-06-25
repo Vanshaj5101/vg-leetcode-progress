@@ -3,9 +3,10 @@ class Solution:
         hq = []
         for x,y in points:
             dist = sqrt(pow(x, 2) + pow(y, 2))
-            heapq.heappush(hq, (-dist, [x, y]))
-        while len(hq) > k:
-            heapq.heappop(hq)
+            if len(hq) == k:
+                heapq.heappushpop(hq, (-dist, [x, y]))
+            else:
+                heapq.heappush(hq, (-dist, [x, y]))
         
         res = []
         while hq:
