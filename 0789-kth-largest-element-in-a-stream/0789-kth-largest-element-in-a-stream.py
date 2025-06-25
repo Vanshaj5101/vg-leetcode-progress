@@ -1,3 +1,11 @@
+"""
+    push nums to min heap
+    reduce len of min heap to k
+    now for add(), add the element to heap
+    again reduce the len of heap to k
+    return min heap top
+"""
+
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
