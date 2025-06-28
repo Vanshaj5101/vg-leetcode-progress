@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
@@ -161,5 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
