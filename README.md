@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0907-koko-eating-bananas) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
