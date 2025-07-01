@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
