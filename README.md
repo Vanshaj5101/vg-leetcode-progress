@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0198-house-robber) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
