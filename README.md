@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/2121-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0684-redundant-connection) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0684-redundant-connection) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/2121-find-if-path-exists-in-graph) |
 ## String Matching
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
