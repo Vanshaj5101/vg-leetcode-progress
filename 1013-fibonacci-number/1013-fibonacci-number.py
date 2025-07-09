@@ -1,9 +1,10 @@
 class Solution:
     def fib(self, n: int) -> int:
-        if n == 1:
-            return 1
-        elif n == 0:
-            return 0
-        else:
-            return self.fib(n-2) + self.fib(n-1)
+        hshmap = {0:0, 1:1}
+        def fibo(x):
+            if x not in hshmap:
+                hshmap[x] = fibo(x-1) + fibo(x-2)
+            return hshmap[x]
+
+        return fibo(n)
         
