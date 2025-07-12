@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
@@ -192,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0213-house-robber-ii) |
