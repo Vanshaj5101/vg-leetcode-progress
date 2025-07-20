@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0295-find-median-from-data-stream) |
