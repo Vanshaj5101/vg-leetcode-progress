@@ -1,7 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hsh = dict()
+        hshmap = dict()
         for i in range(len(nums)):
-            if target - nums[i] in hsh:
-                return [hsh[target - nums[i]], i]
-            hsh[nums[i]] = i
+            if target - nums[i] in hshmap:
+                return [i, hshmap[target - nums[i]]]
+            hshmap[nums[i]] = i
+        
