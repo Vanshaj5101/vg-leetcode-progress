@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0210-course-schedule-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
