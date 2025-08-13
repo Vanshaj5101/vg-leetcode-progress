@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0595-big-countries) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
