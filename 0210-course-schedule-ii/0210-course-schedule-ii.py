@@ -1,30 +1,30 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
-        for a,b in prerequisites:
+        for a, b in prerequisites:
             graph[b].append(a)
         
-        VISITED = 2
-        VISITING = 1
         UNVISITED = 0
-
+        VISITING = 1
+        VISITED = 2
         status = [UNVISITED] * numCourses
-        res = []
-        def is_cycle(root):
-            if status[root] == VISITED:
-                return False
-            elif status[root] == VISITING:
+        order = []
+
+        def is_cycle(node):
+            if status[node] == VISITING:
                 return True
+            elif status[node] == VISITED:
+                return False
             else:
-                status[root] = VISITING
-                for n in graph[root]:
+                status[node] = VISITING
+                for n in graph[node]:
                     if is_cycle(n):
                         return True
-                status[root] = VISITED
-                res.append(root)
-                return False
+                status[node] = VISITED
+                order.append(node)
+
         
         for i in range(numCourses):
             if is_cycle(i):
                 return []
-        return res[::-1]
+        return order[::-1]
