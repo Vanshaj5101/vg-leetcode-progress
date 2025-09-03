@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
