@@ -1,31 +1,20 @@
 class Solution:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
+        parent = [i for i in range(len(edges)+1)]
+
+        def find(x):
+            if parent[x] != x:
+                parent[x] = find(parent[x])
+            return parent[x]
         
-        graph = defaultdict(list)
-
-        visited = set()
-
-        def cycle(node1, node2):
-            if node1 == node2:
+        def union(x, y):
+            rootx = find(x)
+            rooty = find(y)
+            if rootx != rooty:
+                parent[rooty] = rootx
                 return True
-            
-            visited.add(node1)
-    
-            for neighbor in graph[node1]:
-                if neighbor not in visited:
-                    if cycle(neighbor, node2):
-                        return True
-            
             return False
-
         
-        for a,b in edges:
-            if a in graph and b in graph:
-                visited.clear()
-                if cycle(a,b):
-                    return [a,b]
-            graph[a].append(b)
-            graph[b].append(a)
-        
-        return []
-            
+        for u,v in edges:
+            if not union(u,v):
+                return [u,v]
