@@ -1,30 +1,25 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        indegree = [0] * numCourses
         graph = defaultdict(list)
-        for a, b in prerequisites:
-            graph[b].append(a)
-        
-        UNVISITED = 0
-        VISITING = 1
-        VISITED = 2
-        status = [UNVISITED] * numCourses
-        order = []
 
-        def is_cycle(node):
-            if status[node] == VISITING:
-                return True
-            elif status[node] == VISITED:
-                return False
-            else:
-                status[node] = VISITING
-                for n in graph[node]:
-                    if is_cycle(n):
-                        return True
-                status[node] = VISITED
-                order.append(node)
-
+        for u,v in prerequisites:
+            graph[u].append(v)
+            indegree[v]+=1
         
+        queue = deque()
+        topo = list()
+
         for i in range(numCourses):
-            if is_cycle(i):
-                return []
-        return order[::-1]
+            if indegree[i] == 0:
+                queue.append(i)
+        
+        while queue:
+            node = queue.popleft()
+            topo.append(node)
+            for n in graph[node]:
+                indegree[n]-=1
+                if indegree[n] == 0:
+                    queue.append(n)
+        
+        return list(reversed(topo)) if len(topo) == numCourses else []
