@@ -22,4 +22,4 @@ class Solution:
                 if indegree[n] == 0:
                     queue.append(n)
         
-        return list(reversed(topo)) if len(topo) == numCourses else []
+        return topo[::-1] if len(topo) == numCourses else []
