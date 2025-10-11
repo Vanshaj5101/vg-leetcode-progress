@@ -1,26 +1,17 @@
-"""
-    push nums to min heap
-    reduce len of min heap to k
-    now for add(), add the element to heap
-    again reduce the len of heap to k
-    return min heap top
-"""
-
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
-        self.hq = nums[:]
-        heapq.heapify(self.hq)
+        self.heap = nums
         self.k = k
-        while len(self.hq) > k:
-            heapq.heappop(self.hq)
+        heapq.heapify(self.heap)
+        while len(self.heap)>self.k:
+            heapq.heappop(self.heap)
 
     def add(self, val: int) -> int:
-        heapq.heappush(self.hq, val)
-        if len(self.hq) > self.k:
-            heapq.heappop(self.hq)
-        return self.hq[0]
-
+        heapq.heappush(self.heap, val)
+        if len(self.heap) > self.k:
+            heapq.heappop(self.heap)
+        return self.heap[0]
 
 
 # Your KthLargest object will be instantiated and called as such:
