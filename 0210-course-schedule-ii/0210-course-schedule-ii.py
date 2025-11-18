@@ -1,25 +1,25 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         indegree = [0] * numCourses
+        queue = deque()
         graph = defaultdict(list)
 
         for u,v in prerequisites:
+            indegree[v] += 1
             graph[u].append(v)
-            indegree[v]+=1
         
-        queue = deque()
-        topo = list()
-
         for i in range(numCourses):
-            if indegree[i] == 0:
+            if not indegree[i]:
                 queue.append(i)
         
+        topo = list()
+
         while queue:
             node = queue.popleft()
             topo.append(node)
             for n in graph[node]:
-                indegree[n]-=1
-                if indegree[n] == 0:
+                indegree[n] -= 1
+                if not indegree[n]:
                     queue.append(n)
         
-        return topo[::-1] if len(topo) == numCourses else []
+        return list(reversed(topo)) if len(topo) == numCourses else []
