@@ -16,14 +16,11 @@ class Solution:
         res = list()
 
         while queue:
-            size = len(queue)
             lst = list()
-            for i in range(size):
+            for i in range(len(queue)):
                 node = queue.popleft()
                 lst.append(node.val)
-                for child in node.children:
-                    queue.append(child)
+                queue.extend(node.children)
             res.append(lst)
-    
 
         return res
