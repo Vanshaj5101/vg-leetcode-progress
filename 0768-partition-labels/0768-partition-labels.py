@@ -15,5 +15,4 @@ class Solution:
             if i == end:
                 output.append(size)
                 size = 0
-                end = 0
         return output
