@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0890-lemonade-change) |
 ## Tree
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
