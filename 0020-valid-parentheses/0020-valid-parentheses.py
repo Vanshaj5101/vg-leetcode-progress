@@ -10,9 +10,7 @@ class Solution:
             if c in ('(', '[', '{'):
                 stack.append(c)
             else:
-                if not stack:
-                    return False
-                elif stack[-1] != hshmap[c]:
+                if not stack or stack[-1] != hshmap[c]:
                     return False
                 else:
                     stack.pop()
