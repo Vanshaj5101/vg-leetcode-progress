@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## Design
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0890-lemonade-change) |
 ## Tree
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1013-fibonacci-number) |
 ## Memoization
