@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0125-valid-palindrome) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
