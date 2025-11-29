@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0907-koko-eating-bananas) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Stack
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0890-lemonade-change) |
 ## Tree
 |  |
