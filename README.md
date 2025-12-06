@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0198-house-robber) |
