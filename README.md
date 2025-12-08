@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0455-assign-cookies) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
