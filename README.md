@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
@@ -392,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0211-design-add-and-search-words-data-structure) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
