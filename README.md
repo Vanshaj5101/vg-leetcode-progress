@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0890-lemonade-change) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
+| [0816-design-hashset](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0816-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0816-design-hashset) |
 ## Graph
 |  |
 | ------- |
