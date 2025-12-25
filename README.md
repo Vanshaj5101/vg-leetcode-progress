@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0816-design-hashset) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0768-partition-labels) |
 ## Dynamic Programming
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
