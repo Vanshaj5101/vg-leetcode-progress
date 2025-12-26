@@ -1,17 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        stk = []
         hshmap = {
-            ')' : '(',
-            ']' : '[',
-            '}' : '{'
+            ')': '(',
+            '}': '{',
+            ']': '['
         }
-        stack = []
         for c in s:
-            if c in ('(', '[', '{'):
-                stack.append(c)
-            else:
-                if not stack or stack[-1] != hshmap[c]:
+            if c in hshmap.keys():
+                if not stk or hshmap[c] != stk[-1]:
                     return False
-                else:
-                    stack.pop()
-        return True if not stack else False
+                stk.pop()
+            else:
+                stk.append(c)
+        return True if not stk else False
+        
