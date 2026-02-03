@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0119-pascals-triangle-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0417-pacific-atlantic-water-flow) |
