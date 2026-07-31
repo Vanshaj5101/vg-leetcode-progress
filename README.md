@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0138-copy-list-with-random-pointer) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0242-valid-anagram) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0199-binary-tree-right-side-view) |
