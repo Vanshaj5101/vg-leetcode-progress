@@ -7,3 +7,6 @@ class Solution:
             ans[i+n] = num
 
         return ans
+
+        # TC : O(n)
+        # SC : O(2n)
