@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2058-concatenation-of-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -449,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Vanshaj5101/vg-leetcode-progress/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
