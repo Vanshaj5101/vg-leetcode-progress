@@ -9,4 +9,4 @@ class Solution:
         return ans
 
         # TC : O(n)
-        # SC : O(2n)
+        # SC : O(n)
