@@ -1,8 +1,11 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hshset = set()
+        seen = set()
         for n in nums:
-            if n in hshset:
+            if n in seen:
                 return True
-            hshset.add(n)
+            seen.add(n)
         return False
+
+        # TC : O(n)
+        # SC : O(n)
